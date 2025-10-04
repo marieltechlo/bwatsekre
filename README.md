@@ -9,10 +9,10 @@ BWATSEKRE se yon aplikasyon mobil kap  pemet chak manb jere patwimwann yo nan yo
 
 
 ## MUST HAVE
-- [] Manb la ap kapab kreye yon kont si li pa genyen oubyen konekte si li genyen youn deja. Fok li te ouvwi yo kont nan youn nan sikisal mityel la avan.
-- [] manb la ap kapab we tout tranzaksyon(depo, retre, transfe,payman) li fe sou kont(epay simp, epay atem, kredi, sol tipapa) li yo.
-- [] Manb la kapab yon patkilye oubyen yon entrepriz oubyen asosyasyon.
-- [] manb la ap kapab peye byen ak sevis li achte nan men yon lot manb kes la sou aplikasyon an
+- [ ] Manb la ap kapab kreye yon kont si li pa genyen oubyen konekte si li genyen youn deja. Fok li te ouvwi yo kont nan youn nan sikisal mityel la avan.
+- [ ] manb la ap kapab we tout tranzaksyon(depo, retre, transfe,payman) li fe sou kont(epay simp, epay atem, kredi, sol tipapa) li yo.
+- [ ] Manb la kapab yon patkilye oubyen yon entrepriz oubyen asosyasyon.
+- [ ] manb la ap kapab peye byen ak sevis li achte nan men yon lot manb kes la sou aplikasyon an
 
 ## MAYBE HAVE
 - [ ] Manb la ap gen posibilite pou ouvwi yon kont vityel san li pa oblije genyen yon kane fizik.
